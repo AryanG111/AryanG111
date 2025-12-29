@@ -58,9 +58,10 @@ CUDA, Arduino, Computer Networking (Cisco)
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanG111&theme=dark&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=AryanG111&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanG111&layout=compact&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanG111&layout=compact&theme=dark&hide_border=true)
+
 
 ---
 
