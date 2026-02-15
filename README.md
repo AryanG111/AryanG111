@@ -13,7 +13,8 @@ My current focus is on strengthening core foundations in **data structures**, **
 - Algorithms & Data Structures  
 - Machine Learning & Statistical Modeling  
 - Backend & Distributed Systems  
-- Model Deployment & MLOps  
+- Model Deployment & MLOps
+- Networking (Cisco Certified)
 - Performance-critical & Low-level Programming  
 
 ---
@@ -27,7 +28,7 @@ C, C++, Python, Java
 PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, MLflow
 
 ### Backend & Systems
-FastAPI, Django, Flask, Nginx, Docker, Linux
+FastAPI, NodeJS, ExpressJs, Nginx, Docker, Linux
 
 ### Databases
 PostgreSQL, MySQL, MongoDB, Neo4j
@@ -36,7 +37,7 @@ PostgreSQL, MySQL, MongoDB, Neo4j
 Azure, Git, GitLab CI, Jenkins, Vercel
 
 ### Systems & Hardware
-CUDA, Arduino, Computer Networking (Cisco)
+CUDA, Arduino, RaspBerry pi, Computer Networking
 
 ---
 
@@ -68,5 +69,6 @@ CUDA, Arduino, Computer Networking (Cisco)
 ## Contact
 
 - LinkedIn: https://linkedin.com/in/aryanghait  
-- X: https://x.com/AryanG1111  
+- X: https://x.com/AryanG111  
 - Email: aryanghait123@gmail.com
+- Contact: +91 7841936458
