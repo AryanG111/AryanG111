@@ -59,9 +59,10 @@ CUDA, Arduino, RaspBerry pi, Computer Networking
 
 ## GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AryanG111&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
+![Stats](https://github-readme-stats.vercel.app/api?username=AryanG111&show_icons=true&theme=dark&hide_border=true&cache_seconds=1)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanG111&layout=compact&theme=dark&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanG111&layout=compact&theme=dark&hide_border=true&cache_seconds=1)
+
 
 
 ---
