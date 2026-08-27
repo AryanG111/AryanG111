@@ -1,6 +1,6 @@
 # Aryan Ghait
 
-**Software Engineer | Machine Learning & Systems**
+**Data Engineer | Machine Learning & Systems**
 
 I am a fundamentals-driven engineer with a strong focus on **machine learning systems**, **algorithmic problem solving**, and **production-ready software**. I value correctness, scalability, and long-term maintainability over short-term optimizations or hype.
 
@@ -28,13 +28,13 @@ C, C++, Python, Java
 PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, MLflow
 
 ### Backend & Systems
-FastAPI, NodeJS, ExpressJs, Nginx, Docker, Linux
+Django, FastAPI, NodeJS, ExpressJs, Nginx, Docker, Linux
 
 ### Databases
 PostgreSQL, MySQL, MongoDB, Neo4j
 
 ### Cloud & DevOps
-Azure, Git, GitLab CI, Jenkins, Vercel
+Azure, Git, GitLab CI, Jenkins, Vercel, Cloud VMs
 
 ### Systems & Hardware
 CUDA, Arduino, RaspBerry pi, Computer Networking
@@ -54,6 +54,9 @@ CUDA, Arduino, RaspBerry pi, Computer Networking
 
 - **Graph-based Data Modeling**  
   Designed and queried graph schemas using Neo4j for relationship-centric data problems.
+  
+- **Distributed Compute ETA Pipelines**  
+  Designed and maintained core data piplies with which creates/updates millions of rows in the production database, including PostGIS Queries, and multi-parameter data-processing, migrated all pipelines from django ORM row-wise operations to bulk SQL operations.
 
 ---
 
